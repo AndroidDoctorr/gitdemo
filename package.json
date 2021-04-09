@@ -1,0 +1,25 @@
+{
+  "name": "gitdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etdr/gitdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etdr/gitdemo/issues"
+  },
+  "homepage": "https://github.com/etdr/gitdemo#readme",
+  "dependencies": {
+    "@angular/core": "^11.2.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "vue": "^2.6.12"
+  }
+}
